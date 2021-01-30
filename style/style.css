@@ -3,7 +3,7 @@ body{
 }
 
 .wrapper{
-    width: 1400px;
+    max-width: 1400px;
     margin: 0 auto;
     text-align: center;
 }
@@ -48,7 +48,7 @@ h2{
     margin-right: 32px;
 }
 
-.main-image{
+.main-item-image{
     width: 68px;
     height: 68px;
     border: 1px solid #E72424;
